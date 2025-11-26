@@ -1,0 +1,6 @@
+st.set_page_config(
+    page_title="🍀 랜덤 운세 뽑기",
+    page_icon="🌸",
+    layout="centered",
+    initial_sidebar_state="auto"
+)
